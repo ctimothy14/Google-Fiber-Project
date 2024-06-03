@@ -49,18 +49,18 @@ Day 0 represents the first date a customer called. For example, 1,636 customers 
 The second chart visualised the percentage of the first contact calls by the day of the week. In January, only 8.71% of customers made first contact on Sunday. Where the majority of customers called in for the first time on Monday in January. 
 
 # Tables
-![Dash_table](https://github.com/ctimothy14/Google-Fiber-Project/assets/93518336/8180fd8f-239b-45c3-bffa-6cf3f2d2fb44)
+![image](https://raw.githubusercontent.com/ctimothy14/Google-Fiber-Project/main/Dash_table.png)
 
 The second tab of the dashboard includes two tables: Repeat Calls by First Call Date and Calls by Market and Type. 
 The first table allows stakeholders to explore the number of different types of calls by date. The second table then separates calls into market and problem type to provide more specific information about what markets experience the most calls and the problems customers have that seem to prompt repeat calls.
 
 # Market and Type for First Repeat Calls
-![Dash_day 1 calls by market](https://github.com/ctimothy14/Google-Fiber-Project/assets/93518336/3266d9d4-d3f5-404d-a34d-b0b63667927d)
+![image](https://raw.githubusercontent.com/ctimothy14/Google-Fiber-Project/main/Dash_day%201%20calls%20by%20market.png)
 
 The Market and Type for First Repeat Calls uses the data from the previous tabs table in order to further visualize the problem types that seem to generate the most repeat calls for different markets.
 
 # Calls Across Quarter 1
-![Dash_day 0 and Day 1 Calls](https://github.com/ctimothy14/Google-Fiber-Project/assets/93518336/06e4d81a-bde6-4483-8fd1-38d30ee89c74)
+![image](https://github.com/ctimothy14/Google-Fiber-Project/blob/main/Dash_day%200%20and%20Day%201%20Calls.png)
 
 The last tab of the dashboard inlcudes two charts to visualise the number of Day 0 calls accross amarkets and the problem types and the first repeat calls across markets and problem types.
 This tab of the dashboard helps highlights and provides further insights into what markets and problems are generating calls in the first quarter of the year, as well as which products are causing the most issues for customers to be calling again after the first contact.
