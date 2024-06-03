@@ -5,6 +5,7 @@ The Google Fiber Call Centre Team have requested me to develop a dashboard that 
 The team needs to understand how often customers call customer support after their first inquiry. This will help leadership understand how effectively the team can answer customer questions the first time.
 
 # Dataset
+The provided dataset is limited to the Quarter 1 of 2022.
 The data provided has been anonymized and approved by the Google Fiber Call Center team which includes:
 - Number of calls
 - Number of repeat calls after first contact
@@ -37,7 +38,6 @@ The dashboard which I have created will provide further insights and answer the 
 
 
 # My Dashboard
-The provided dataset is limited to the Quarter 1 of 2022. 
 You can interact with my dashboard here: [Google Fiber Dashboard | Tableau Public](https://public.tableau.com/app/profile/timothy5768/viz/GoogleFiber_Final_Project/Dash_day0andDay1Calls).
 
 
@@ -57,4 +57,19 @@ The first table allows stakeholders to explore the number of different types of 
 # Market and Type for First Repeat Calls
 ![Dash_day 1 calls by market](https://github.com/ctimothy14/Google-Fiber-Project/assets/93518336/3266d9d4-d3f5-404d-a34d-b0b63667927d)
 
-The Market and Type for First Repeat Calls uses the data from the previous tabs table in order to further visualize the problem types that seem to generate the most repeat calls for different markets. 
+The Market and Type for First Repeat Calls uses the data from the previous tabs table in order to further visualize the problem types that seem to generate the most repeat calls for different markets.
+
+# Calls Across Quarter 1
+![Dash_day 0 and Day 1 Calls](https://github.com/ctimothy14/Google-Fiber-Project/assets/93518336/06e4d81a-bde6-4483-8fd1-38d30ee89c74)
+
+The last tab of the dashboard inlcudes two charts to visualise the number of Day 0 calls accross amarkets and the problem types and the first repeat calls across markets and problem types.
+This tab of the dashboard helps highlights and provides further insights into what markets and problems are generating calls in the first quarter of the year, as well as which products are causing the most issues for customers to be calling again after the first contact.
+
+# Key insights
+- Market_1 has the highest percentage of repeat calls, followed by Market_2 and Market_3.
+- Internet and wifi (Type_5) and technician troubleshooting (Type_2) account for majority of the repeat calls
+
+# Recommendations
+- Provide further training to staff for handling internet and wifi & technician troubleshooting issues.
+- Create a chatbot on the Google Fiber website which asks the customers about their issue and provide guided solutions to help solve their issue (including possible screenshots).
+- Allocating more staff to market_1 to address the high call volume of repeat calls. 
