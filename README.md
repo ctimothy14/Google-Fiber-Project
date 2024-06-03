@@ -67,7 +67,7 @@ This tab of the dashboard helps highlights and provides further insights into wh
 
 # Key insights
 - Market_1 has the highest percentage of repeat calls, followed by Market_2 and Market_3.
-- Internet and wifi (Type_5) and technician troubleshooting (Type_2) account for majority of the repeat calls
+- Internet and wifi (Type_5) and technician troubleshooting (Type_2) account for majority of the repeat calls.
 
 # Recommendations
 - Provide further training to staff for handling internet and wifi & technician troubleshooting issues.
