@@ -44,3 +44,6 @@ You can interact with my dashboard here: [Google Fiber Dashboard | Tableau Publi
 The first tab of the dashboard includes two bar chats: The first chart visualises the number of repeat calls the customer service team has received in each month.
 Day 0 represents the first date a customer called. For example, 1,636 customers called again one day after their initial call, but only 575 customers called again seven days later in January. 
 The second chart visualised the percentage of the first contact calls by the day of the week. In January, only 8.71% of customers made first contact on Sunday. Where the majority of customers called in for the first time on Monday in January. 
+
+# Tables
+![Dash_table](https://github.com/ctimothy14/Google-Fiber-Project/assets/93518336/8180fd8f-239b-45c3-bffa-6cf3f2d2fb44)
