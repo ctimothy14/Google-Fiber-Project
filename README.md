@@ -42,14 +42,14 @@ You can interact with my dashboard here: [Google Fiber Dashboard | Tableau Publi
 
 
 # Repeats by Month
-![image](https://raw.githubusercontent.com/ctimothy14/Google-Fiber-Project/main/Dash_day%200%20and%20Day%201%20Calls.png)
+![image](https://raw.githubusercontent.com/ctimothy14/Google-Fiber-Project/main/Dash_Repeat_by_months.png)
 
 The first tab of the dashboard includes two bar chats: The first chart visualises the number of repeat calls the customer service team has received in each month.
 Day 0 represents the first date a customer called. For example, 1,636 customers called again one day after their initial call, but only 575 customers called again seven days later in January. 
 The second chart visualised the percentage of the first contact calls by the day of the week. In January, only 8.71% of customers made first contact on Sunday. Where the majority of customers called in for the first time on Monday in January. 
 
 # Tables
-![image](https://raw.githubusercontent.com/ctimothy14/Google-Fiber-Project/main/Dash_Repeat_by_months.png)
+![image](https://raw.githubusercontent.com/ctimothy14/Google-Fiber-Project/main/Dash_table.png)
 
 The second tab of the dashboard includes two tables: Repeat Calls by First Call Date and Calls by Market and Type. 
 The first table allows stakeholders to explore the number of different types of calls by date. The second table then separates calls into market and problem type to provide more specific information about what markets experience the most calls and the problems customers have that seem to prompt repeat calls.
