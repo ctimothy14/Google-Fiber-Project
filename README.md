@@ -4,6 +4,7 @@ The final part of the Google Business Intelligence Certificate was to complete a
 The Google Fiber Call Centre Team have requested me to develop a dashboard that allows them to explore trends in repeat calls.
 The team needs to understand how often customers call customer support after their first inquiry. This will help leadership understand how effectively the team can answer customer questions the first time.
 
+# Dataset
 The data provided has been anonymized and approved by the Google Fiber Call Center team which includes:
 - Number of calls
 - Number of repeat calls after first contact
@@ -19,7 +20,9 @@ The data also lists five problem types:
 - Type_4 is construction
 - Type_5 is internet and wifi
 
-## Stakeholder's Problem:
+I first uploaded the three different market.csv's into Big Query and performed a UNION ALL to have all three csv's merged into one target_table csv file. The target_table csv.file was then uploaded into Tableau to create the dashboard.
+
+## Stakeholder's Questions:
 - How often are customers calling repeatedly?
 - The frequency of customers following up within the next 7 days after their first call with the customer service team?
 - What are the main issues which are generating repeat calls?
@@ -47,3 +50,11 @@ The second chart visualised the percentage of the first contact calls by the day
 
 # Tables
 ![Dash_table](https://github.com/ctimothy14/Google-Fiber-Project/assets/93518336/8180fd8f-239b-45c3-bffa-6cf3f2d2fb44)
+
+The second tab of the dashboard includes two tables: Repeat Calls by First Call Date and Calls by Market and Type. 
+The first table allows stakeholders to explore the number of different types of calls by date. The second table then separates calls into market and problem type to provide more specific information about what markets experience the most calls and the problems customers have that seem to prompt repeat calls.
+
+# Market and Type for First Repeat Calls
+![Dash_day 1 calls by market](https://github.com/ctimothy14/Google-Fiber-Project/assets/93518336/3266d9d4-d3f5-404d-a34d-b0b63667927d)
+
+The Market and Type for First Repeat Calls uses the data from the previous tabs table in order to further visualize the problem types that seem to generate the most repeat calls for different markets. 
