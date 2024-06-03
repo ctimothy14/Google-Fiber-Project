@@ -39,7 +39,7 @@ You can interact with my dashboard here: [Google Fiber Dashboard | Tableau Publi
 
 
 # Repeats by Month
-![image](https://public.tableau.com/app/profile/timothy5768/viz/GoogleFiber_Final_Project/Dash_RepeatCalls?publish=yes)
+![image]([https://public.tableau.com/app/profile/timothy5768/viz/GoogleFiber_Final_Project/Dash_RepeatCalls?publish=yes](https://github.com/ctimothy14/Google-Fiber-Project/blob/main/Dash_Repeat_by_months.png))
 
 The first tab of the dashboard includes two bar chats: The first chart visualises the number of repeat calls the customer service team has received in each month.
 Day 0 represents the first date a customer called. For example, 1,636 customers called again one day after their initial call, but only 575 customers called again seven days later in January. 
